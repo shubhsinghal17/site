@@ -1,0 +1,83 @@
+
+body {margin: 0;
+text-align: center;
+color: #40514E;}
+h1 {margin: 50px auto 0 auto;
+font-family: 'Kalam', cursive;
+font-size: 5.625rem;
+color: #66BFBF;
+}
+h2 {font-family: 'Merriweather', serif;
+font-size: 2.5rem;
+color: #66BFBF;
+font-weight: normal;}
+h3 {font-family: 'Montserrat', sans-serif;
+color: #11999E;}
+
+
+.bottom-cloud {position: absolute;}
+.top-container {padding-top: 100px;
+ background-color: #E4F9F5}
+.top-cloud {position: absolute;
+top:40px;
+right: 300px;}
+.pro {text-decoration: underline;}
+.skill-row {width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2}
+.x {width: 25%;
+float: left;
+margin-right: 30px}
+.y {width: 25%;
+  float: right;
+  margin-left: 30px}
+
+  .z {padding-bottom: 100px;
+  width: 30%;
+margin: auto;}
+  hr {border-style: none;
+  width: 5%;
+  border-top: 5px dotted grey;
+  padding-bottom: 50px;
+  }
+  p {line-height: 2;}
+  .a {width: 40%;
+  margin: 40px auto 60px;}
+  .b {padding-top: 100px}
+  .contact-me {padding-bottom: 100px}
+  .btn {
+  background: #346bd9;
+  background-image: -webkit-linear-gradient(top, #346bd9, #2b6fb8);
+  background-image: -moz-linear-gradient(top, #346bd9, #2b6fb8);
+  background-image: -ms-linear-gradient(top, #346bd9, #2b6fb8);
+  background-image: -o-linear-gradient(top, #346bd9, #2b6fb8);
+  background-image: linear-gradient(to bottom, #346bd9, #2b6fb8);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cfcc6;
+  background-image: -webkit-linear-gradient(top, #3cfcc6, #34d9a2);
+  background-image: -moz-linear-gradient(top, #3cfcc6, #34d9a2);
+  background-image: -ms-linear-gradient(top, #3cfcc6, #34d9a2);
+  background-image: -o-linear-gradient(top, #3cfcc6, #34d9a2);
+  background-image: linear-gradient(to bottom, #3cfcc6, #34d9a2);
+  text-decoration: none;
+}
+.bottom-container {background-color: #66BFBF;
+padding: 50px 0 20px;}
+a {color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+.h {color: white;
+}
